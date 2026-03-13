@@ -1,0 +1,86 @@
+I have worked as a Software engineer for 2 years in India and 3 years in the US and during this time span I’ve realized that promotions, raises, and strong performance ratings are rarely about working the hardest. They’re about creating visible, meaningful IMPACT however small or big your organization is.
+
+I have worked at a startUp in India and now I work at Walmart, and based on my experience I have compiled principles that have consistently worked for me. None of this is company-specific. These are patterns that apply almost everywhere.
+
+1. Integrate AI Into Your Day-to-Day Work
+Every company today is looking for employees who can use AI to save time, reduce manual effort, and increase team efficiency. These are also the people who tend to be most valuable and are safe during lay-offs.
+
+As an employee, start by identifying where your team spends the most time:
+
+Deployments
+
+Production releases
+
+Manual validations
+
+Debugging
+
+Documentation
+
+Repetitive analysis
+
+Then ask a simple question:
+“What part of this can be automated or accelerated using AI?”
+
+Start small. Even if the first solution only helps you, that’s fine. Over time, turn it into something that benefits the team. The moment your work starts saving other people time, you create leverage.
+
+Eg: Initially, you can just create an agent.md file and integrate it with cursor or copilot, for it to work like a chatbot. You can integrate this chatbot to places where product can use it to make certain repetitive and simple changes, where engineering involvement is not necessary. This will help you save engineering bandwidth.
+
+One honest truth: You will likely need to use your weekends or personal time early on to experiment and build these things. But believe me it will be WORTH IT.
+
+2. Choose the Right Business Initiatives
+During sprint planning or roadmap discussions, I stopped asking:
+“What task should I pick up?”
+
+And started asking: “Which initiative will make the biggest impact?”
+
+Always evaluate work from an impact perspective, not an input perspective. Promotions and raises are not tied to how busy you were they’re tied to what changed because of your work.
+
+If you’re early in your career, you may not be given ownership of major initiatives immediately. So initially you can:
+
+Contribute beyond your assigned scope
+
+Support high-impact projects
+
+Just try to be involved in these projects in some way. The closer your work is to business priorities, the easier it becomes to justify your growth during reviews.
+
+3. Become the Point of Contact (POC)
+Growth in any company requires cross-functional visibility. This means interacting not just with other developers, but also with:
+
+Product managers
+
+Stakeholders
+
+Sister teams and their leads
+
+Data scientists
+
+Support teams, etc.
+
+When you become the POC for an application or system, people know:
+
+What you’re responsible for
+
+What problems you solve
+
+Whom to reach out to
+
+Year-end reviews often include feedback from these people, and if you are the POC for them, their feedback automatically will be in favor of your growth!
+
+4. Communicate Your Impact Clearly
+Early on in my career, I have made this mistake of assuming that my work will speak for itself. But it DOES NOT! Hence, in order to create visibility, I’ve made it a habit to track:
+
+Problems I solved
+
+Risks I prevented
+
+Metrics I moved
+
+Cross-team contributions
+
+When I have 1-1 meetings with my managers or leads, I clearly state the impact: I focus less on what I did and more on what changed: Reduced failures, Improved performance, Saved time or cost, Increased adoption or reliability.
+
+I also make it a point to write everything down well in advance of the meeting and discuss each point clearly. This helps keep the conversation focused and meaningful, rather than turning into a generic discussion without clear direction.
+
+Your manager needs concrete examples to represent you well for promotions, and you explicitly repeating your impact, helps him/her remember it and use it to present your case.
+
